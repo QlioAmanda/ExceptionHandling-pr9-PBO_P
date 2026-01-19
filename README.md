@@ -13,7 +13,6 @@ Program ini menghitung frekuensi kemunculan huruf dalam sebuah kata.
 - **Kasus Eksepsi:** Menangani error ketika membaca karakter yang bukan huruf (misalnya angka atau simbol), yang menyebabkan indeks array di luar batas.
 > **Output:**
 > ![Screenshot CountLetters](assets/countletters_ss.png)
-> *(Simpan screenshot output CountLetters di folder assets)*
 
 ### 2. ParseInts (NumberFormatException)
 Program ini membaca satu baris teks dan menjumlahkan semua angka yang ada di dalamnya.
@@ -33,7 +32,7 @@ Program untuk menghitung faktorial dari input pengguna.
 
 ## 🚀 Cara Menjalankan (How to Run)
 
-Karena file-file ini tidak menggunakan `package`, kamu bisa menjalankannya langsung dari dalam folder.
+Karena file-file ini tidak menggunakan `package`, bisa menjalankannya langsung dari dalam folder.
 
 1.  **Buka Terminal** dan arahkan ke direktori folder ini:
     ```bash
