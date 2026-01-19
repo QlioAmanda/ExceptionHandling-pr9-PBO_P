@@ -1,6 +1,6 @@
-# Exception Handling - Tugas 9 PBO
+# Exception Handling - Pratikum 9 PBO
 
-Repositori ini berisi kode sumber Java untuk **Tugas 9: Penanganan Eksepsi (Exception Handling)**.
+Repositori ini berisi kode sumber Java untuk **Pratikum 9: Penanganan Eksepsi (Exception Handling)**.
 
 Proyek ini mendemonstrasikan cara menangani berbagai jenis error yang mungkin terjadi saat *runtime* agar program tidak berhenti secara mendadak (*crash*).
 
